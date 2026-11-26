@@ -1,7 +1,22 @@
-<svg width="42" height="42" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="42" height="42" rx="7" fill="#183B3C"/>
-  <g stroke="#D3AA70" stroke-width="1.6" stroke-linecap="square" stroke-linejoin="miter">
-    <path d="M7 34V8h28v26H7Z"/>
-    <path d="M7 26h9V8M16 26h10V16h9M16 26v8M26 16V8M26 26h9"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="366 38 876 876">
+  <rect x="366" y="38" width="876" height="876" fill="#ffffff"/>
+  <defs>
+    <linearGradient id="navy" x2="0.8" y2="1"><stop stop-color="#061b35"/><stop offset="1" stop-color="#174e73"/></linearGradient>
+    <linearGradient id="blue" x1="0" y1="0.2" x2="1" y2="0.8"><stop stop-color="#004481"/><stop offset=".55" stop-color="#008bd0"/><stop offset="1" stop-color="#22d4f4"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#9ce5fa"/><stop offset=".45" stop-color="#078fc8"/><stop offset="1" stop-color="#00467d"/></linearGradient>
+  </defs>
+  <path fill="url(#navy)" d="M474 465 641 367 641 621 611 640 611 405 493 475 493 704 474 716Z"/>
+  <path fill="url(#glass)" d="M519 497 594 454 594 650 519 690Z"/>
+  <path fill="#075e99" d="M519 555 594 513 594 524 519 567ZM519 608 594 566 594 577 519 620Z"/>
+  <path fill="url(#navy)" d="M641 289 834 141 834 502 812 515 812 180 658 295 658 611 641 621Z"/>
+  <path fill="url(#glass)" d="M678 343 794 258 794 527 678 595Z"/>
+  <path fill="#075e99" d="M678 402 794 320 794 331 678 414ZM678 469 794 393 794 405 678 481Z"/>
+  <path fill="url(#blue)" d="M856 126 1009 256 1009 402 856 488Z"/>
+  <path fill="#005b9e" opacity=".55" d="M856 126 896 160 896 465 856 488Z"/>
+  <path fill="#005c9d" opacity=".55" d="M945 202 957 212 957 431 945 438Z"/>
+  <path fill="url(#navy)" d="M390 777 1063 393 1218 530 1178 584 1047 467Z"/>
+  <path fill="#092a49" d="M1063 393 1218 530 1178 584 1047 467Z"/>
+  <path fill="url(#navy)" d="M496 739 664 670 664 812Q578 825 496 818Z M717 652 1008 536 1008 709Q871 775 717 807Z"/>
+  <path fill="url(#glass)" d="M808 649 868 629 868 686 808 700Z M875 626 936 605 936 664 875 682Z M808 711 868 696 868 748 808 762Z M875 692 936 675 936 730 875 746Z"/>
+  <path fill="#76b5d1" d="M1051 485 1170 591 1051 684Z"/>
 </svg>
